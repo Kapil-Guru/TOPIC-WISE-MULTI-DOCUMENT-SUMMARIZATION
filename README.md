@@ -1,6 +1,6 @@
 # TOPIC-WISE-MULTI-DOCUMENT-SUMMARIZATION
 
-In this project, we developed a method for performing topic wise summarization on multiple documents. 
+This project presents a method for performing topic wise summarization on multiple documents. 
 This technique identifies and produces the summary of important details and information on each available topic present in different source documents. 
 The idea is to summarize multiple text documents by clustering their contents based on latent topics produced using topic modeling techniques and by generating extractive summaries for each of the identified text clusters. 
 All extractive sub-summaries are later combined to generate a summary for each topic in the source documents. 
