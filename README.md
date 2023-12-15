@@ -14,7 +14,11 @@ INPUT: Source Text Documents
 OUTPUT: Topic-wise summaries
 
 Files & Folders description:
+
 Dataset Visualization ---> This folder contains graphs to get insights into the dataset documents
+
 Evaluation ---> This folder contains Rogue score tables and graphs as a result of evaluating our algorithm
+
 Results ---> This folder contains final summary results and intermediate results in csv format
+
 Project Documentation.pdf ---> This file contains comprehensize information on the methodology involved 
